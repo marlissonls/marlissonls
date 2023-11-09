@@ -1,16 +1,18 @@
-# Olá! 👋 Meu nome é Marlisson Lopes
+<h1> Olá! 👋 Meu nome é Marlisson Lopes </h1>
 
-### Aqui você encontrará uma variedade de projetos e contribuições relacionadas à minha jornada no mundo da programação.
+<h3>🌵 Caruaru - PE</h3>
+<h3>🎓 Formando em Análise e Desenvolvimento de Sistemas</h3>
+<h3>👨‍💻 Desenvolvedor Full-Stack Web</h3>
 
-## 📊 Estatísticas do GitHub
+<h2>📊 Estatísticas do GitHub</h2> 
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marlissonls&show_icons=true&count_private=true&theme=radical)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marlissonls&layout=compact&theme=radical&hide=Jupyter%20Notebook)](https://github.com/marlissonls)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marlissonls&layout=compact&theme=radical&hide=Jupyter%20Notebook)
 
-## 💼 Tecnologias e Ferramentas
+<h2>🤖 Technologies</h2>
 
-- Linguagens de Programação: 
+- 👨‍💻 Programming Languages: 
   ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=flat)
   ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=flat)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
@@ -18,7 +20,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white&style=flat)
   ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
   
-- Frameworks e Bibliotecas:
+- 🛠️ Frameworks and Libraries:
   ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white&style=flat)
   ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white&style=flat)
   ![Pandas](https://img.shields.io/badge/-Pandas-lightgrey?logo=pandas&logoColor=white&style=flat)
@@ -29,11 +31,11 @@
   ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-red?logo=python&logoColor=white&style=flat)
 
   
-- Bancos de Dados: 
+- 💾 Databases: 
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white&style=flat)
   
-- Ferramentas de Desenvolvimento: 
+- 💯 Development tools: 
   ![VS Code](https://img.shields.io/badge/-VS_Code-blue?logo=visual-studio-code&logoColor=white&style=flat)
 
 
