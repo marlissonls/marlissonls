@@ -24,6 +24,10 @@ Aqui você encontrará uma variedade de projetos e contribuições relacionadas 
   ![Pandas](https://img.shields.io/badge/-Pandas-lightgrey?logo=pandas&logoColor=white&style=flat)
   ![PySpark](https://img.shields.io/badge/-PySpark-yellow?logo=apache-spark&logoColor=white&style=flat)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-green?logo=fastapi&logoColor=white&style=flat)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-lightgrey?logo=python&logoColor=white&style=flat)
+  ![Dash](https://img.shields.io/badge/-Dash-blue?logo=python&logoColor=white&style=flat)
+  ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-red?logo=python&logoColor=white&style=flat)
+
   
 - Bancos de Dados: 
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat)
