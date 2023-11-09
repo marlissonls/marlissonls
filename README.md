@@ -1,4 +1,4 @@
-# Olá! 👋 Meu nome é Marlisson Lopes, seja Bem-vindo!
+# Olá! 👋 Meu nome é Marlisson Lopes
 
 Aqui você encontrará uma variedade de projetos e contribuições relacionadas à minha jornada no mundo da programação.
 
