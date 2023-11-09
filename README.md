@@ -1,6 +1,6 @@
 # Olá! 👋 Meu nome é Marlisson Lopes
 
-Aqui você encontrará uma variedade de projetos e contribuições relacionadas à minha jornada no mundo da programação.
+### Aqui você encontrará uma variedade de projetos e contribuições relacionadas à minha jornada no mundo da programação.
 
 ## 📊 Estatísticas do GitHub
 
@@ -42,4 +42,4 @@ Aqui você encontrará uma variedade de projetos e contribuições relacionadas 
   <a href = "mailto:marlisson.business@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marlissonlopesdasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-Obrigado por visitar meu perfil! 😊
+### Obrigado por visitar meu perfil! 😊
