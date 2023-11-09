@@ -6,7 +6,7 @@ Aqui você encontrará uma variedade de projetos e contribuições relacionadas 
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marlissonls&show_icons=true&count_private=true&theme=radical)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marlissonls&layout=compact&theme=radical)](https://github.com/marlissonls)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marlissonls&layout=compact&theme=radical&hide=Jupyter%20Notebook)](https://github.com/marlissonls)
 
 ## 💼 Tecnologias e Ferramentas
 
@@ -16,11 +16,11 @@ Aqui você encontrará uma variedade de projetos e contribuições relacionadas 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
   ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=flat)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white&style=flat)
+  ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
   
 - Frameworks e Bibliotecas:
   ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white&style=flat)
   ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white&style=flat)
-  ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
   ![Pandas](https://img.shields.io/badge/-Pandas-lightgrey?logo=pandas&logoColor=white&style=flat)
   ![PySpark](https://img.shields.io/badge/-PySpark-yellow?logo=apache-spark&logoColor=white&style=flat)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-green?logo=fastapi&logoColor=white&style=flat)
