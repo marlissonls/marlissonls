@@ -1,6 +1,6 @@
-# Olá! 👋 
+# Olá! 👋 Meu nome é Marlisson Lopes, seja Bem-vindo!
 
-## Bem-vindo ao meu perfil do GitHub! Meu nome é Marlisson Lopes, e eu sou um apaixonado por desenvolvimento de software. Aqui você encontrará uma variedade de projetos e contribuições relacionadas à minha jornada no mundo da programação.
+Aqui você encontrará uma variedade de projetos e contribuições relacionadas à minha jornada no mundo da programação.
 
 ## 📊 Estatísticas do GitHub
 
