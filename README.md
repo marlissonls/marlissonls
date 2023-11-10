@@ -33,13 +33,13 @@
   ![Dash](https://img.shields.io/badge/-Dash-blue?logo=python&logoColor=white&style=flat)
   ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-red?logo=python&logoColor=white&style=flat)
 
-  
 </h3>💾 Banco de dados:</h3>
 
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white&style=flat)
   
-- 💯 Ferramentas de desenvolvimento: 
+</h3>💯 Ferramentas de desenvolvimento:</h3>
+
   ![VS Code](https://img.shields.io/badge/-VS_Code-blue?logo=visual-studio-code&logoColor=white&style=flat)
 
 
