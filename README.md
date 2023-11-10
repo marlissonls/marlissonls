@@ -1,8 +1,9 @@
 <h1> Olá! 👋 Meu nome é Marlisson Lopes </h1>
 
 <h3>🌵 Caruaru - PE</h3>
-<h3>🎓 Formando em Análise e Desenvolvimento de Sistemas</h3>
-<h3>👨‍💻 Desenvolvedor Full-Stack Web</h3>
+<h3>🎓 Formando em Engenharia Civil</h3>
+<h3>👨‍💻 Desenvolvedor Back-End Typescript</h3>
+<h3>👨‍💻 Engenheiro e Analista de Dados Python</h3>
 
 <h2>📊 Estatísticas do GitHub</h2> 
 
