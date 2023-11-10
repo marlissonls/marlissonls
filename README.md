@@ -7,9 +7,10 @@
 
 <h2>📊 Estatísticas do GitHub</h2> 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marlissonls&show_icons=true&count_private=true&theme=radical)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marlissonls&layout=compact&theme=radical&hide=Jupyter%20Notebook)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=marlissonls&show_icons=true&count_private=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlissonls&layout=compact&theme=radical&hide=Jupyter%20Notebook" />
+</div>
 
 <h2>🤖 Tecnologias</h2>
 
