@@ -14,6 +14,7 @@
 <h2>🤖 Tecnologias</h2>
 
 <h3>👨‍💻 Linguagens de Programação:</h3>
+
   ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=flat)
   ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=flat)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
@@ -22,6 +23,7 @@
   ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
   
 <h3>🛠️ Frameworks e bibliotecas:</h3>
+
   ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white&style=flat)
   ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white&style=flat)
   ![Pandas](https://img.shields.io/badge/-Pandas-lightgrey?logo=pandas&logoColor=white&style=flat)
@@ -33,6 +35,7 @@
 
   
 </h3>💾 Banco de dados:</h3>
+
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white&style=flat)
   
