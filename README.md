@@ -8,6 +8,7 @@
 <h2 style="color: white";>📊 Estatísticas do GitHub</h2> 
 
 <div style="display: flex; justify-content: space-between; color: white">
+  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=marlissonls.marlissonls)](https://github.com/marlissonls/marlissonls)
   <img src="https://github-readme-stats.vercel.app/api?username=marlissonls&show_icons=true&count_private=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlissonls&layout=compact&theme=radical&hide=Jupyter%20Notebook" />
 </div>
